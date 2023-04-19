@@ -4,7 +4,7 @@ Created on 21Oct2022 3:39 PM
 
 @author: Cory Kromer-Edwards
 
-Isolate Object to be used in Bacterial GA
+Antibiotic Object to be used in Antibiotic GA
 """
 
 from random import choices
