@@ -1,6 +1,12 @@
 # Antibiotic Genetic Algorithm (AGA)
 This is the base code for AGA in the BAAGA paper.
 
+# Install
+Install requires `seaborn`, `matplotlib`, `deap`, `rdkit`, and `numpy`.
+
+# Running
+This is not meant to run in the console. It is meant as a baseline for using Genetic Algorithms with Antibiotics to generate new compounds based on a fitness function. It is a barebones implementation with comments provided to give a jump start in using Genetic Algorithms for generating compounds.
+
 # Citation
 If you use any ideas or code from this repository, please cite the following paper where it was published:
 ```

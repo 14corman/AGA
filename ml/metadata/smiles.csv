@@ -1,0 +1,13 @@
+﻿antibiotics,smiles
+Ampicillin-sulbactam,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)[O-])C.CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)[O-])C.[Na+].[Na+]
+Aztreonam,CC1C(C(=O)N1S(=O)(=O)O)NC(=O)C(=NOC(C)(C)C(=O)O)C2=CSC(=N2)N
+Cefepime,C[N+]1(CCCC1)CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-]
+Ceftaroline,CCO/N=C(/c1nc(=N)s[nH]1)\C(=N[C@]2([H])C(=O)N3C(=C(CS[C@]23[H])Sc4nc(cs4)-c5cc[n+](C)cc5)C(=O)[O-])O
+Ceftazidime,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+Ceftobiprole,C1CNCC1N2CCC(=CC3=C(N4C(C(C4=O)NC(=O)C(=NO)C5=NSC(=N5)N)SC3)C(=O)O)C2=O
+Ceftolozane-tazobactam,CC(C)(C(=O)O)O/N=C(/c1nc(sn1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[n+]4cc(c(n4C)N)NC(=O)NCCN)C(=O)[O-]
+Ceftriaxone,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O
+Doripenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O
+Imipenem,CC(C1C2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O
+Meropenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O
+Piperacillin-tazobactam,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O.CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)CN3C=CN=N3
